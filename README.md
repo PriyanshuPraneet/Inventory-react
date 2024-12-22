@@ -34,3 +34,5 @@ Search Items: Utilize the search bar to filter and find items within the invento
 
 Delete Items: Click the delete button next to any item to remove it from the inventory.
 
+# ScreenShot
+<img src = "Screenshot.png" width="500" height="500">
